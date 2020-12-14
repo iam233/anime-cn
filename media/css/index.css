@@ -3,6 +3,10 @@
 .mdui-drawer{
     background-color: #edeff0;
     background: url(../img/bg.jpg);
+	margin:0;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 80%;
 }
 
 .head_card-offset{
