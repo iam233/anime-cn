@@ -9,11 +9,12 @@
     <meta http-equiv="Cache-Control" content="no-siteapp"/>
     <link rel="stylesheet" href="/styles/main.css">
     <link rel="stylesheet" href="//cdnjs.loli.net/ajax/libs/mdui/0.4.3/css/mdui.min.css">
+    <link rel="stylesheet" href="media/css/post.css">
     <link rel="stylesheet" href="media/live2d/css/live2d.css" />
     
 </head>
 <body class=" mdui-appbar-with-toolbar  mdui-theme-primary-pink mdui-theme-accent-pink">
-        <header class="mdui-toolbar mdui-color-pink mdui-appbar-fixed mdui-appbar-scroll-toolbar-hide" style="z-index: 1000">
+<header class="mdui-toolbar mdui-color-pink mdui-appbar-fixed mdui-appbar-scroll-toolbar-hide" style="z-index: 1000">
     <a href="javascript:;" mdui-drawer="{target: '#left-drawer',overlay:true}" class="mdui-btn mdui-btn-icon"><i class="mdui-icon material-icons">menu</i></a>
     <span class="mdui-typo-title">CrystalStudio的瞎写小屋</span>
     <div class="mdui-toolbar-spacer"></div>
@@ -21,7 +22,7 @@
     <a href="javascript:;" class="mdui-btn mdui-btn-icon"><i class="mdui-icon material-icons">more_vert</i></a>
 </header>
 
-        <div class="mdui-drawer mdui-color-white mdui-drawer-full-height mdui-drawer-close" id="left-drawer">
+<div class="mdui-drawer mdui-color-white mdui-drawer-full-height mdui-drawer-close" id="left-drawer">
     <ul class="mdui-list">
         <li class="mdui-subheader">菜单</li>
         
@@ -48,40 +49,46 @@
     </ul>
 </div>
 
+<div id="content" class="site-content">
+    <div id="primary" class="content-area">
+        <main id="main" class="site-main" role="main">
+            <article id="post-1270" class="post-1270 post type-post status-publish format-standard hentry category-90 category-129 tag-149">
+                <header class="entry-header">
+                    <h1 class="entry-title">GithubPages恢复主用</h1>
+                    <p class="entry-census">发布于 2020-12-14</p>
+                    <hr>
+                </header>
+                <div class="neko">
+                    <p>GithubPages现在负责<del>在天朝网路不能公开的内容</del>防止主站被墙<br>
+这责任重大</p>
+
+                </div>
+            </article>
+        </main>
+    </div>
+    <div class="doc-footer-nav mdui-color-theme">
         <div class="mdui-container">
-            <div class="mdui-row mdui-row-gapless">
-                <div class="k-container">
-                    <div class="head_card-offset"></div>
-                    
-    <div class="mdui-card">
-        <div class="mdui-card-media">
-            <img src="http://github.csbili.ml/post-images/hello-gridea.png"/>
-            <div class="mdui-card-media-covered">
-                <div class="mdui-card-primary">
-                    <div class="mdui-card-primary-title">Hello Gridea</div>
-                    <div class="mdui-card-primary-subtitle"><p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-</div>
-                </div>
-                <div class="mdui-card-actions" style="float:right;">
-                    <a href="http://github.csbili.ml/post/hello-gridea/" class="mdui-btn mdui-ripple mdui-ripple-white">点击查看</a>
-                </div>
+            <div class="mdui-row">
+                
+                <div class="mdui-col-xs-2 mdui-col-sm-6 doc-footer-nav-left"></div>
+                
+                
+                <a href="http://github.csbili.ml/post/hello-gridea/" class="mdui-ripple mdui-color-theme mdui-col-xs-10 mdui-col-sm-6 doc-footer-nav-right">
+                    <div class="doc-footer-nav-text">
+                        <i class="mdui-icon material-icons">arrow_forward</i>
+                        <span class="doc-footer-nav-direction">下一篇文章</span>
+                        <div class="doc-footer-nav-chapter">Hello Gridea</div>
+                    </div>
+                </a>
+                
             </div>
         </div>
     </div>
-    <div class="head_card-offset"></div>
-
-
-                </div>
-            </div>
-            <div class="mdui-row mdui-row-gapless">
-                <div class="k-container">
-                    
-
-                </div>
-            </div>
-        </div>
-        <footer class="mdui-container footer ">
+    <br>
+    
+    <div class="comment"></div>
+</div>
+<footer class="mdui-container footer ">
     <div class="head_card-offset"></div>
     <div class="mdui-row mdui-row-gapless">
         <div class="k-container">
@@ -131,6 +138,25 @@ Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea<
 <script type="text/javascript" src="/media/live2d/js/live2d.js"></script>
 <script type="text/javascript" src="/media/live2d/js/message.js"></script>
 
-    </body>
+</body>
 <script src="//cdnjs.loli.net/ajax/libs/mdui/0.4.3/js/mdui.min.js"></script>
+<script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+<script>
+    $('.comment').bind('DOMNodeInserted',()=>{
+        $('.comment').unbind()
+
+        $('.vbtn').addClass(' mdui-btn mdui-color-theme-accent mdui-ripple')
+    })
+
+    let valine = new Valine({
+        el: '.comment',
+        
+        
+        
+        path: window.location.pathname,
+        pageSize: 30,
+        avatar:'mm',
+        notify:true
+    })
+</script>
 </html>
