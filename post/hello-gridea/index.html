@@ -177,4 +177,27 @@ Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea<
 
 </body>
 <script src="//cdnjs.loli.net/ajax/libs/mdui/0.4.3/js/mdui.min.js"></script>
+<script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+<script>
+    $('.comment').bind('DOMNodeInserted',()=>{
+        $('.comment').unbind()
+
+        $('.vbtn').addClass(' mdui-btn mdui-color-theme-accent mdui-ripple')
+    })
+
+    let valine = new Valine({
+        el: '.comment',
+        
+        app_id: 'L2WzJMsAQegWFF0yIgHLkgck-MdYXbMMI',
+        
+        
+        app_key: 'UHiHUxqMPAnPvsnROG3BYV77',
+        
+        
+        path: window.location.pathname,
+        pageSize: 30,
+        avatar:'mm',
+        notify:true
+    })
+</script>
 </html>
