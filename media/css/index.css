@@ -1,13 +1,6 @@
 
 
-.mdui-drawer{
-    background-color: #edeff0;
-    background: url(../img/bg.jpg);
-	margin:0;
-    background-attachment: fixed;
-    background-size: cover;
-    background-position: 80%;
-}
+
 
 .head_card-offset{
     padding-top: 65px;
@@ -26,7 +19,7 @@
 }*/
 
 .centerbg{
-    background-image: url(../img/centerbg.jpg);
+    background-image: url(../img/bg.jpg);
     margin:0;
     background-attachment: fixed;
     background-size: cover;
