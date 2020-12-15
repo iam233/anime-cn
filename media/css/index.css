@@ -1,10 +1,8 @@
-body {
-	background-image: url(../img/bg.jpg);
-	  background-repeat: no-repeat;
-	background-attachment: fixed; 
-	background-position: center center;
-	 background-attachment: fixed;
-	  background-size: cover;
+
+
+.mdui-drawer{
+    background-color: #edeff0;
+    background: url(../img/bg_01.jpg);
 }
 
 .head_card-offset{
@@ -23,6 +21,13 @@ body {
     background-size: cover;
 }*/
 
+.centerbg{
+    background-image: url(../img/centerbg.jpg);
+    margin:0;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 80%;
+}
 
 .focusinfo {
     position: relative;
