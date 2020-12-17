@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://github.csbili.ml</id>
+    <id>http://crystalbili.ml</id>
     <title>CrystalStudio的瞎写小屋</title>
-    <updated>2020-12-17T10:50:58.737Z</updated>
+    <updated>2020-12-17T11:09:53.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://github.csbili.ml"/>
-    <link rel="self" href="http://github.csbili.ml/atom.xml"/>
+    <link rel="alternate" href="http://crystalbili.ml"/>
+    <link rel="self" href="http://crystalbili.ml/atom.xml"/>
     <subtitle>GithubPages站，属于危险黑暗地带博客</subtitle>
-    <logo>http://github.csbili.ml/images/avatar.png</logo>
-    <icon>http://github.csbili.ml/favicon.ico</icon>
+    <logo>http://crystalbili.ml/images/avatar.png</logo>
+    <icon>http://crystalbili.ml/favicon.ico</icon>
     <rights>All rights reserved 2020, CrystalStudio的瞎写小屋</rights>
     <entry>
         <title type="html"><![CDATA[GithubPages恢复主用]]></title>
-        <id>http://github.csbili.ml/post/githubpages-hui-fu-zhu-yong/</id>
-        <link href="http://github.csbili.ml/post/githubpages-hui-fu-zhu-yong/">
+        <id>http://crystalbili.ml/post/githubpages-hui-fu-zhu-yong/</id>
+        <link href="http://crystalbili.ml/post/githubpages-hui-fu-zhu-yong/">
         </link>
         <updated>2020-12-14T13:06:09.000Z</updated>
         <content type="html"><![CDATA[<p>GithubPages现在负责<del>在天朝网路不能公开的内容</del>防止主站被墙<br>
@@ -22,8 +22,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://github.csbili.ml/post/hello-gridea/</id>
-        <link href="http://github.csbili.ml/post/hello-gridea/">
+        <id>http://crystalbili.ml/post/hello-gridea/</id>
+        <link href="http://crystalbili.ml/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
