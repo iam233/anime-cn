@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://crystalbili.ml</id>
     <title>CrystalStudio的瞎写小屋</title>
-    <updated>2021-01-24T14:24:59.702Z</updated>
+    <updated>2021-01-24T14:34:15.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://crystalbili.ml"/>
     <link rel="self" href="http://crystalbili.ml/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>http://crystalbili.ml/images/avatar.png</logo>
     <icon>http://crystalbili.ml/favicon.ico</icon>
     <rights>All rights reserved 2021, CrystalStudio的瞎写小屋</rights>
+    <entry>
+        <title type="html"><![CDATA[央视已经购买了「工作细胞」第一季版权，将于2月13日登陆CCTV6，这是时隔多年后，日漫再次登陆央视。]]></title>
+        <id>http://crystalbili.ml/post/yang-shi-yi-jing-gou-mai-liao-gong-zuo-xi-bao-di-yi-ji-ban-quan-jiang-yu-2-yue-13-ri-deng-lu-cctv6zhe-shi-shi-ge-duo-nian-hou-ri-man-zai-ci-deng-lu-yang-shi/</id>
+        <link href="http://crystalbili.ml/post/yang-shi-yi-jing-gou-mai-liao-gong-zuo-xi-bao-di-yi-ji-ban-quan-jiang-yu-2-yue-13-ri-deng-lu-cctv6zhe-shi-shi-ge-duo-nian-hou-ri-man-zai-ci-deng-lu-yang-shi/">
+        </link>
+        <updated>2021-01-24T14:34:05.000Z</updated>
+        <content type="html"><![CDATA[<p>央视已经购买了「工作细胞」第一季版权，将于2月13日登陆CCTV6，这是时隔多年后，日漫再次登陆央视。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个会说话的回收站]]></title>
         <id>http://crystalbili.ml/post/yi-ge-hui-shuo-hua-de-hui-shou-zhan/</id>
@@ -90,38 +99,6 @@
         <updated>2020-12-14T13:06:09.000Z</updated>
         <content type="html"><![CDATA[<p>GithubPages现在负责<del>在天朝网路不能公开的内容</del>防止主站被墙<br>
 这责任重大</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://crystalbili.ml/post/hello-gridea/</id>
-        <link href="http://crystalbili.ml/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
