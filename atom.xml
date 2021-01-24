@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://crystalbili.ml</id>
     <title>CrystalStudio的瞎写小屋</title>
-    <updated>2021-01-23T10:02:13.653Z</updated>
+    <updated>2021-01-24T08:46:28.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://crystalbili.ml"/>
     <link rel="self" href="http://crystalbili.ml/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>http://crystalbili.ml/images/avatar.png</logo>
     <icon>http://crystalbili.ml/favicon.ico</icon>
     <rights>All rights reserved 2021, CrystalStudio的瞎写小屋</rights>
+    <entry>
+        <title type="html"><![CDATA[我可以一拳打爆他吗？]]></title>
+        <id>http://crystalbili.ml/post/wo-ke-yi-yi-quan-da-bao-ta-ma/</id>
+        <link href="http://crystalbili.ml/post/wo-ke-yi-yi-quan-da-bao-ta-ma/">
+        </link>
+        <updated>2021-01-24T08:45:54.000Z</updated>
+        <content type="html"><![CDATA[<p>来自群组：1026967992</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这狗屁玩意还说是外传，结果一点关系都没得]]></title>
         <id>http://crystalbili.ml/post/zhe-gou-pi-wan-yi-huan-shuo-shi-wai-chuan-jie-guo-yi-dian-guan-xi-du-mei-de/</id>
