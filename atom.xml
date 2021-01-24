@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://crystalbili.ml</id>
     <title>CrystalStudio的瞎写小屋</title>
-    <updated>2021-01-24T08:47:00.491Z</updated>
+    <updated>2021-01-24T13:14:15.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://crystalbili.ml"/>
     <link rel="self" href="http://crystalbili.ml/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>http://crystalbili.ml/images/avatar.png</logo>
     <icon>http://crystalbili.ml/favicon.ico</icon>
     <rights>All rights reserved 2021, CrystalStudio的瞎写小屋</rights>
+    <entry>
+        <title type="html"><![CDATA[我双方面宣布，我点兔下完了]]></title>
+        <id>http://crystalbili.ml/post/wo-shuang-fang-mian-xuan-bu-wo-dian-tu-xia-wan-liao/</id>
+        <link href="http://crystalbili.ml/post/wo-shuang-fang-mian-xuan-bu-wo-dian-tu-xia-wan-liao/">
+        </link>
+        <updated>2021-01-24T13:13:29.000Z</updated>
+        <content type="html"><![CDATA[<p>群组1026967992</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传  教  成  功]]></title>
+        <id>http://crystalbili.ml/post/chuan-jiao-cheng-gong/</id>
+        <link href="http://crystalbili.ml/post/chuan-jiao-cheng-gong/">
+        </link>
+        <updated>2021-01-24T08:58:14.000Z</updated>
+        <content type="html"><![CDATA[<p>来自群组：1026967992</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我可以一拳打爆他吗？]]></title>
         <id>http://crystalbili.ml/post/wo-ke-yi-yi-quan-da-bao-ta-ma/</id>
