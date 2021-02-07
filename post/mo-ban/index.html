@@ -50,8 +50,26 @@
                     <hr>
                 </header>
                 <div class="neko">
-                    <p><a href="地址">跳转到观看地址</a></p>
-
+                      <link rel="stylesheet" href="https://g.alicdn.com/de/prismplayer/2.9.0/skins/default/aliplayer-min.css" />
+  <script type="text/javascript" charset="utf-8" src="https://g.alicdn.com/de/prismplayer/2.9.0/aliplayer-min.js"></script>
+<div id="player-con"></div>
+<script>
+  var player = new Aliplayer({
+    id: "player-con",
+    source: "地址",
+    width: "100%",
+    height: "500px",
+    cover: '封面地址',
+    /* To set an album art, you must set 'autoplay' and 'preload' to 'false' */
+    autoplay: false,
+    preload: false,
+    isLive: false,
+	  <!-- 这个是语言，英语：en-us，简体中文：zh-cn>
+    language: "zh-cn"
+  }, function (player) {
+    console.log("The player is created");
+  });
+</script>
                 </div>
             </article>
         </main>

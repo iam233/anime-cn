@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://anime-cn.ml</id>
     <title>Anime-cn</title>
-    <updated>2021-02-07T15:56:28.822Z</updated>
+    <updated>2021-02-07T16:03:46.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://anime-cn.ml"/>
     <link rel="self" href="http://anime-cn.ml/atom.xml"/>
@@ -16,8 +16,26 @@
         <link href="http://anime-cn.ml/post/mo-ban/">
         </link>
         <updated>2021-02-07T15:34:02.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="地址">跳转到观看地址</a></p>
-]]></content>
+        <content type="html"><![CDATA[  <link rel="stylesheet" href="https://g.alicdn.com/de/prismplayer/2.9.0/skins/default/aliplayer-min.css" />
+  <script type="text/javascript" charset="utf-8" src="https://g.alicdn.com/de/prismplayer/2.9.0/aliplayer-min.js"></script>
+<div id="player-con"></div>
+<script>
+  var player = new Aliplayer({
+    id: "player-con",
+    source: "地址",
+    width: "100%",
+    height: "500px",
+    cover: '封面地址',
+    /* To set an album art, you must set 'autoplay' and 'preload' to 'false' */
+    autoplay: false,
+    preload: false,
+    isLive: false,
+	  <!-- 这个是语言，英语：en-us，简体中文：zh-cn>
+    language: "zh-cn"
+  }, function (player) {
+    console.log("The player is created");
+  });
+</script>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我喜欢的是妹妹但不是妹妹_01]]></title>
@@ -25,7 +43,25 @@
         <link href="http://anime-cn.ml/post/wo-xi-huan-de-shi-mei-mei-dan-bu-shi-mei-mei-_01-ji/">
         </link>
         <updated>2021-02-07T15:29:23.000Z</updated>
-        <content type="html"><![CDATA[<iframe id="c_iframe"  height="1048" width="500"  src="https://onedrive.csbili.ml/anime-cn-1/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%20%E7%AC%AC01%E9%9B%86_%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B_%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%20-%20%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.mp4?preview" style="display:none" ></iframe>
+        <content type="html"><![CDATA[  <link rel="stylesheet" href="https://g.alicdn.com/de/prismplayer/2.9.0/skins/default/aliplayer-min.css" />
+  <script type="text/javascript" charset="utf-8" src="https://g.alicdn.com/de/prismplayer/2.9.0/aliplayer-min.js"></script>
+<div id="player-con"></div>
+<script>
+  var player = new Aliplayer({
+    id: "player-con",
+    source: "https://onedrive.csbili.ml/anime-cn-1/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%20%E7%AC%AC01%E9%9B%86_%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B_%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%20-%20%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.mp4",
+    width: "100%",
+    height: "500px",
+    cover: '封面地址',
+    /* To set an album art, you must set 'autoplay' and 'preload' to 'false' */
+    autoplay: false,
+    preload: false,
+    isLive: false,
+	  <!-- 这个是语言，英语：en-us，简体中文：zh-cn>
+    language: "zh-cn"
+  }, function (player) {
+    console.log("The player is created");
+  });
 </script>]]></content>
     </entry>
 </feed>

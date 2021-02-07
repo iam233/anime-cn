@@ -50,7 +50,25 @@
                     <hr>
                 </header>
                 <div class="neko">
-                    <iframe id="c_iframe"  height="1048" width="500"  src="https://onedrive.csbili.ml/anime-cn-1/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%20%E7%AC%AC01%E9%9B%86_%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B_%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%20-%20%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.mp4?preview" style="display:none" ></iframe>
+                      <link rel="stylesheet" href="https://g.alicdn.com/de/prismplayer/2.9.0/skins/default/aliplayer-min.css" />
+  <script type="text/javascript" charset="utf-8" src="https://g.alicdn.com/de/prismplayer/2.9.0/aliplayer-min.js"></script>
+<div id="player-con"></div>
+<script>
+  var player = new Aliplayer({
+    id: "player-con",
+    source: "https://onedrive.csbili.ml/anime-cn-1/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%20%E7%AC%AC01%E9%9B%86_%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B_%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%20-%20%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.mp4",
+    width: "100%",
+    height: "500px",
+    cover: '封面地址',
+    /* To set an album art, you must set 'autoplay' and 'preload' to 'false' */
+    autoplay: false,
+    preload: false,
+    isLive: false,
+	  <!-- 这个是语言，英语：en-us，简体中文：zh-cn>
+    language: "zh-cn"
+  }, function (player) {
+    console.log("The player is created");
+  });
 </script>
                 </div>
             </article>
