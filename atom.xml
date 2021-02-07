@@ -1,104 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://crystalbili.ml</id>
-    <title>CrystalStudio的瞎写小屋</title>
-    <updated>2021-01-24T14:34:15.610Z</updated>
+    <id>http://anime-cn.ml</id>
+    <title>Anime-cn</title>
+    <updated>2021-02-07T15:12:09.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://crystalbili.ml"/>
-    <link rel="self" href="http://crystalbili.ml/atom.xml"/>
-    <subtitle>GithubPages站，属于危险黑暗地带博客</subtitle>
-    <logo>http://crystalbili.ml/images/avatar.png</logo>
-    <icon>http://crystalbili.ml/favicon.ico</icon>
-    <rights>All rights reserved 2021, CrystalStudio的瞎写小屋</rights>
-    <entry>
-        <title type="html"><![CDATA[央视已经购买了「工作细胞」第一季版权，将于2月13日登陆CCTV6，这是时隔多年后，日漫再次登陆央视。]]></title>
-        <id>http://crystalbili.ml/post/yang-shi-yi-jing-gou-mai-liao-gong-zuo-xi-bao-di-yi-ji-ban-quan-jiang-yu-2-yue-13-ri-deng-lu-cctv6zhe-shi-shi-ge-duo-nian-hou-ri-man-zai-ci-deng-lu-yang-shi/</id>
-        <link href="http://crystalbili.ml/post/yang-shi-yi-jing-gou-mai-liao-gong-zuo-xi-bao-di-yi-ji-ban-quan-jiang-yu-2-yue-13-ri-deng-lu-cctv6zhe-shi-shi-ge-duo-nian-hou-ri-man-zai-ci-deng-lu-yang-shi/">
-        </link>
-        <updated>2021-01-24T14:34:05.000Z</updated>
-        <content type="html"><![CDATA[<p>央视已经购买了「工作细胞」第一季版权，将于2月13日登陆CCTV6，这是时隔多年后，日漫再次登陆央视。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个会说话的回收站]]></title>
-        <id>http://crystalbili.ml/post/yi-ge-hui-shuo-hua-de-hui-shou-zhan/</id>
-        <link href="http://crystalbili.ml/post/yi-ge-hui-shuo-hua-de-hui-shou-zhan/">
-        </link>
-        <updated>2021-01-24T14:23:25.000Z</updated>
-        <content type="html"><![CDATA[<p>来自1026967992</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重  新  定  义  可  爱]]></title>
-        <id>http://crystalbili.ml/post/chong-xin-ding-yi-ke-ai/</id>
-        <link href="http://crystalbili.ml/post/chong-xin-ding-yi-ke-ai/">
-        </link>
-        <updated>2021-01-24T13:17:32.000Z</updated>
-        <content type="html"><![CDATA[<p>重  新  定  义  可  爱</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[草，动态无了]]></title>
-        <id>http://crystalbili.ml/post/cao-dong-tai-wu-liao/</id>
-        <link href="http://crystalbili.ml/post/cao-dong-tai-wu-liao/">
-        </link>
-        <updated>2021-01-24T13:14:37.000Z</updated>
-        <content type="html"><![CDATA[<p>草，动态无了</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我双方面宣布，我点兔下完了]]></title>
-        <id>http://crystalbili.ml/post/wo-shuang-fang-mian-xuan-bu-wo-dian-tu-xia-wan-liao/</id>
-        <link href="http://crystalbili.ml/post/wo-shuang-fang-mian-xuan-bu-wo-dian-tu-xia-wan-liao/">
-        </link>
-        <updated>2021-01-24T13:13:29.000Z</updated>
-        <content type="html"><![CDATA[<p>群组1026967992</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[传  教  成  功]]></title>
-        <id>http://crystalbili.ml/post/chuan-jiao-cheng-gong/</id>
-        <link href="http://crystalbili.ml/post/chuan-jiao-cheng-gong/">
-        </link>
-        <updated>2021-01-24T08:58:14.000Z</updated>
-        <content type="html"><![CDATA[<p>来自群组：1026967992</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我可以一拳打爆他吗？]]></title>
-        <id>http://crystalbili.ml/post/wo-ke-yi-yi-quan-da-bao-ta-ma/</id>
-        <link href="http://crystalbili.ml/post/wo-ke-yi-yi-quan-da-bao-ta-ma/">
-        </link>
-        <updated>2021-01-24T08:45:54.000Z</updated>
-        <content type="html"><![CDATA[<p>来自群组：1026967992</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这狗屁玩意还说是外传，结果一点关系都没得]]></title>
-        <id>http://crystalbili.ml/post/zhe-gou-pi-wan-yi-huan-shuo-shi-wai-chuan-jie-guo-yi-dian-guan-xi-du-mei-de/</id>
-        <link href="http://crystalbili.ml/post/zhe-gou-pi-wan-yi-huan-shuo-shi-wai-chuan-jie-guo-yi-dian-guan-xi-du-mei-de/">
-        </link>
-        <updated>2021-01-23T06:19:34.000Z</updated>
-        <content type="html"><![CDATA[<p>来自群组：1026967992</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我宣布Github Pages当QQ频道评论区来用]]></title>
-        <id>http://crystalbili.ml/post/wo-xuan-bu-github-pages-dang-qq-pin-dao-ping-lun-qu-lai-yong/</id>
-        <link href="http://crystalbili.ml/post/wo-xuan-bu-github-pages-dang-qq-pin-dao-ping-lun-qu-lai-yong/">
-        </link>
-        <updated>2021-01-23T05:31:40.000Z</updated>
-        <content type="html"><![CDATA[<p>来自群组：1026967992</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GithubPages恢复主用]]></title>
-        <id>http://crystalbili.ml/post/githubpages-hui-fu-zhu-yong/</id>
-        <link href="http://crystalbili.ml/post/githubpages-hui-fu-zhu-yong/">
-        </link>
-        <updated>2020-12-14T13:06:09.000Z</updated>
-        <content type="html"><![CDATA[<p>GithubPages现在负责<del>在天朝网路不能公开的内容</del>防止主站被墙<br>
-这责任重大</p>
-]]></content>
-    </entry>
+    <link rel="alternate" href="http://anime-cn.ml"/>
+    <link rel="self" href="http://anime-cn.ml/atom.xml"/>
+    <subtitle>Anime-cn</subtitle>
+    <logo>http://anime-cn.ml/images/avatar.png</logo>
+    <icon>http://anime-cn.ml/favicon.ico</icon>
+    <rights>All rights reserved 2021, Anime-cn</rights>
 </feed>
