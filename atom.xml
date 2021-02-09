@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://anime-cn.ml</id>
     <title>Anime-cn</title>
-    <updated>2021-02-09T03:49:21.080Z</updated>
+    <updated>2021-02-09T04:25:35.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://anime-cn.ml"/>
     <link rel="self" href="http://anime-cn.ml/atom.xml"/>
@@ -11,71 +11,18 @@
     <icon>http://anime-cn.ml/favicon.ico</icon>
     <rights>All rights reserved 2021, Anime-cn</rights>
     <entry>
-        <title type="html"><![CDATA[Anime-cn可能会代替樱花？]]></title>
-        <id>http://anime-cn.ml/post/anime-cn-ke-neng-hui-dai-ti-ying-hua/</id>
-        <link href="http://anime-cn.ml/post/anime-cn-ke-neng-hui-dai-ti-ying-hua/">
+        <title type="html"><![CDATA[为什么老师会在这里？_13]]></title>
+        <id>http://anime-cn.ml/post/wei-shi-me-lao-shi-hui-zai-zhe-li-_13/</id>
+        <link href="http://anime-cn.ml/post/wei-shi-me-lao-shi-hui-zai-zhe-li-_13/">
         </link>
-        <updated>2021-02-09T03:31:31.000Z</updated>
-        <content type="html"><![CDATA[<p>樱花动漫已经陪伴了各位老二刺猿很多年<br>
-<strong>但是</strong><br>
-樱花动漫的很多地方已经多年没有进行维护<br>
-很难创造出一种好用的感觉<br>
-现在也就是更新番而已<br>
-并且视频源是不是也会<strong>抽风*<br>
-接下来给大家讲一下Anime-cn的</strong>优点**:</p>
-<p>·Anime-cn的界面是比较偏<strong>现代化</strong>的<br>
-·时不时就会搬运樱花的番<br>
-·而且也有使用<strong>Valine</strong>的<strong>评论区</strong><br>
-·网站的服务器费用也很好解决<br>
-·因为用的是<a href="https://github.com/iam233/anime-cn"><strong>Github Pages</strong></a>网站·也是开源的<br>
-·存储番剧的也是中国大陆地区的<a href="https://onedrive.csbili.ml/anime-cn-1"><strong>Onedrive</strong></a></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我喜欢的是妹妹但不是妹妹_SP02]]></title>
-        <id>http://anime-cn.ml/post/wo-xi-huan-de-shi-mei-mei-dan-bu-shi-mei-mei-_sp02/</id>
-        <link href="http://anime-cn.ml/post/wo-xi-huan-de-shi-mei-mei-dan-bu-shi-mei-mei-_sp02/">
-        </link>
-        <updated>2021-02-08T04:56:23.000Z</updated>
+        <updated>2021-02-09T04:01:36.000Z</updated>
         <content type="html"><![CDATA[  <link rel="stylesheet" href="https://g.alicdn.com/de/prismplayer/2.9.0/skins/default/aliplayer-min.css" />
   <script type="text/javascript" charset="utf-8" src="https://g.alicdn.com/de/prismplayer/2.9.0/aliplayer-min.js"></script>
 <div id="player-con"></div>
 <script>
   var player = new Aliplayer({
     id: "player-con",
-    source: "https://onedrive.csbili.ml/anime-cn-1/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%20SP02_%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B_%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%20-%20%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.mp4",
-    width: "100%",
-    height: "500px",
-    cover: '封面地址',
-    /* To set an album art, you must set 'autoplay' and 'preload' to 'false' */
-    autoplay: false,
-    preload: false,
-    isLive: false,
-	  <!-- 这个是语言，英语：en-us，简体中文：zh-cn>
-    language: "zh-cn"
-  }, function (player) {
-    console.log("The player is created");
-  });
-</script>
-<br>
-<center>
-<strong>视频来自<a href="http://www.imomoe.ai/">樱花动漫</a>，视频源为<a href="https://crystalbili.xyz">CrystalStudio</a>所
-<p>有</strong></p>
-</center>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我喜欢的是妹妹但不是妹妹_SP01]]></title>
-        <id>http://anime-cn.ml/post/wo-xi-huan-de-shi-mei-mei-dan-bu-shi-mei-mei-_sp01/</id>
-        <link href="http://anime-cn.ml/post/wo-xi-huan-de-shi-mei-mei-dan-bu-shi-mei-mei-_sp01/">
-        </link>
-        <updated>2021-02-08T04:55:38.000Z</updated>
-        <content type="html"><![CDATA[  <link rel="stylesheet" href="https://g.alicdn.com/de/prismplayer/2.9.0/skins/default/aliplayer-min.css" />
-  <script type="text/javascript" charset="utf-8" src="https://g.alicdn.com/de/prismplayer/2.9.0/aliplayer-min.js"></script>
-<div id="player-con"></div>
-<script>
-  var player = new Aliplayer({
-    id: "player-con",
-    source: "https://onedrive.csbili.ml/anime-cn-1/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%20SP01_%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B_%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%20-%20%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.mp4",
+    source: "https://onedrive.csbili.ml/anime-cn-1/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F%20%E7%AC%AC13%E9%9B%86_%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B_%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F%20-%20%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.mp4",
     width: "100%",
     height: "500px",
     cover: '封面地址',
@@ -95,18 +42,18 @@
 </center>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我喜欢的是妹妹但不是妹妹_10]]></title>
-        <id>http://anime-cn.ml/post/wo-xi-huan-de-shi-mei-mei-dan-bu-shi-mei-mei-_10/</id>
-        <link href="http://anime-cn.ml/post/wo-xi-huan-de-shi-mei-mei-dan-bu-shi-mei-mei-_10/">
+        <title type="html"><![CDATA[为什么老师会在这里？_12]]></title>
+        <id>http://anime-cn.ml/post/wei-shi-me-lao-shi-hui-zai-zhe-li-_12/</id>
+        <link href="http://anime-cn.ml/post/wei-shi-me-lao-shi-hui-zai-zhe-li-_12/">
         </link>
-        <updated>2021-02-08T04:54:36.000Z</updated>
+        <updated>2021-02-09T04:01:10.000Z</updated>
         <content type="html"><![CDATA[  <link rel="stylesheet" href="https://g.alicdn.com/de/prismplayer/2.9.0/skins/default/aliplayer-min.css" />
   <script type="text/javascript" charset="utf-8" src="https://g.alicdn.com/de/prismplayer/2.9.0/aliplayer-min.js"></script>
 <div id="player-con"></div>
 <script>
   var player = new Aliplayer({
     id: "player-con",
-    source: "https://onedrive.csbili.ml/anime-cn-1/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%20%E7%AC%AC10%E9%9B%86_%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B_%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%20-%20%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.mp4",
+    source: "https://onedrive.csbili.ml/anime-cn-1/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F%20%E7%AC%AC12%E9%9B%86_%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B_%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F%20-%20%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.mp4",
     width: "100%",
     height: "500px",
     cover: '封面地址',
@@ -126,18 +73,18 @@
 </center>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我喜欢的是妹妹但不是妹妹_09]]></title>
-        <id>http://anime-cn.ml/post/wo-xi-huan-de-shi-mei-mei-dan-bu-shi-mei-mei-_09/</id>
-        <link href="http://anime-cn.ml/post/wo-xi-huan-de-shi-mei-mei-dan-bu-shi-mei-mei-_09/">
+        <title type="html"><![CDATA[为什么老师会在这里？_11]]></title>
+        <id>http://anime-cn.ml/post/wei-shi-me-lao-shi-hui-zai-zhe-li-_11/</id>
+        <link href="http://anime-cn.ml/post/wei-shi-me-lao-shi-hui-zai-zhe-li-_11/">
         </link>
-        <updated>2021-02-08T04:53:54.000Z</updated>
+        <updated>2021-02-09T04:00:43.000Z</updated>
         <content type="html"><![CDATA[  <link rel="stylesheet" href="https://g.alicdn.com/de/prismplayer/2.9.0/skins/default/aliplayer-min.css" />
   <script type="text/javascript" charset="utf-8" src="https://g.alicdn.com/de/prismplayer/2.9.0/aliplayer-min.js"></script>
 <div id="player-con"></div>
 <script>
   var player = new Aliplayer({
     id: "player-con",
-    source: "https://onedrive.csbili.ml/anime-cn-1/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%20%E7%AC%AC09%E9%9B%86_%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B_%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%20-%20%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.mp4",
+    source: "https://onedrive.csbili.ml/anime-cn-1/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F%20%E7%AC%AC11%E9%9B%86_%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B_%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F%20-%20%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.mp4",
     width: "100%",
     height: "500px",
     cover: '封面地址',
@@ -157,18 +104,18 @@
 </center>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我喜欢的是妹妹但不是妹妹_08]]></title>
-        <id>http://anime-cn.ml/post/wo-xi-huan-de-shi-mei-mei-dan-bu-shi-mei-mei-_08/</id>
-        <link href="http://anime-cn.ml/post/wo-xi-huan-de-shi-mei-mei-dan-bu-shi-mei-mei-_08/">
+        <title type="html"><![CDATA[为什么老师会在这里？_10]]></title>
+        <id>http://anime-cn.ml/post/wei-shi-me-lao-shi-hui-zai-zhe-li-_10/</id>
+        <link href="http://anime-cn.ml/post/wei-shi-me-lao-shi-hui-zai-zhe-li-_10/">
         </link>
-        <updated>2021-02-08T04:51:57.000Z</updated>
+        <updated>2021-02-09T04:00:09.000Z</updated>
         <content type="html"><![CDATA[  <link rel="stylesheet" href="https://g.alicdn.com/de/prismplayer/2.9.0/skins/default/aliplayer-min.css" />
   <script type="text/javascript" charset="utf-8" src="https://g.alicdn.com/de/prismplayer/2.9.0/aliplayer-min.js"></script>
 <div id="player-con"></div>
 <script>
   var player = new Aliplayer({
     id: "player-con",
-    source: "https://onedrive.csbili.ml/anime-cn-1/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%20%E7%AC%AC08%E9%9B%86_%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B_%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%20-%20%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.mp4",
+    source: "https://onedrive.csbili.ml/anime-cn-1/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F%20%E7%AC%AC10%E9%9B%86_%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B_%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F%20-%20%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.mp4",
     width: "100%",
     height: "500px",
     cover: '封面地址',
@@ -188,18 +135,18 @@
 </center>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我喜欢的是妹妹但不是妹妹_07]]></title>
-        <id>http://anime-cn.ml/post/wo-xi-huan-de-shi-mei-mei-dan-bu-shi-mei-mei-_07/</id>
-        <link href="http://anime-cn.ml/post/wo-xi-huan-de-shi-mei-mei-dan-bu-shi-mei-mei-_07/">
+        <title type="html"><![CDATA[为什么老师会在这里？_09]]></title>
+        <id>http://anime-cn.ml/post/wei-shi-me-lao-shi-hui-zai-zhe-li-_09/</id>
+        <link href="http://anime-cn.ml/post/wei-shi-me-lao-shi-hui-zai-zhe-li-_09/">
         </link>
-        <updated>2021-02-08T04:51:22.000Z</updated>
+        <updated>2021-02-09T03:59:28.000Z</updated>
         <content type="html"><![CDATA[  <link rel="stylesheet" href="https://g.alicdn.com/de/prismplayer/2.9.0/skins/default/aliplayer-min.css" />
   <script type="text/javascript" charset="utf-8" src="https://g.alicdn.com/de/prismplayer/2.9.0/aliplayer-min.js"></script>
 <div id="player-con"></div>
 <script>
   var player = new Aliplayer({
     id: "player-con",
-    source: "https://onedrive.csbili.ml/anime-cn-1/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%20%E7%AC%AC07%E9%9B%86_%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B_%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%20-%20%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.mp4",
+    source: "https://onedrive.csbili.ml/anime-cn-1/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F%20%E7%AC%AC09%E9%9B%86_%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B_%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F%20-%20%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.mp4",
     width: "100%",
     height: "500px",
     cover: '封面地址',
@@ -219,18 +166,18 @@
 </center>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我喜欢的是妹妹但不是妹妹_06]]></title>
-        <id>http://anime-cn.ml/post/wo-xi-huan-de-shi-mei-mei-dan-bu-shi-mei-mei-_06/</id>
-        <link href="http://anime-cn.ml/post/wo-xi-huan-de-shi-mei-mei-dan-bu-shi-mei-mei-_06/">
+        <title type="html"><![CDATA[为什么老师会在这里？_08]]></title>
+        <id>http://anime-cn.ml/post/wei-shi-me-lao-shi-hui-zai-zhe-li-_08/</id>
+        <link href="http://anime-cn.ml/post/wei-shi-me-lao-shi-hui-zai-zhe-li-_08/">
         </link>
-        <updated>2021-02-08T04:50:32.000Z</updated>
+        <updated>2021-02-09T03:58:52.000Z</updated>
         <content type="html"><![CDATA[  <link rel="stylesheet" href="https://g.alicdn.com/de/prismplayer/2.9.0/skins/default/aliplayer-min.css" />
   <script type="text/javascript" charset="utf-8" src="https://g.alicdn.com/de/prismplayer/2.9.0/aliplayer-min.js"></script>
 <div id="player-con"></div>
 <script>
   var player = new Aliplayer({
     id: "player-con",
-    source: "https://onedrive.csbili.ml/anime-cn-1/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%20%E7%AC%AC06%E9%9B%86_%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B_%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%20-%20%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.mp4",
+    source: "https://onedrive.csbili.ml/anime-cn-1/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F%20%E7%AC%AC08%E9%9B%86_%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B_%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F%20-%20%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.mp4",
     width: "100%",
     height: "500px",
     cover: '封面地址',
@@ -250,18 +197,18 @@
 </center>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我喜欢的是妹妹但不是妹妹_05]]></title>
-        <id>http://anime-cn.ml/post/wo-xi-huan-de-shi-mei-mei-dan-bu-shi-mei-mei-_05/</id>
-        <link href="http://anime-cn.ml/post/wo-xi-huan-de-shi-mei-mei-dan-bu-shi-mei-mei-_05/">
+        <title type="html"><![CDATA[为什么老师会在这里？_07]]></title>
+        <id>http://anime-cn.ml/post/wei-shi-me-lao-shi-hui-zai-zhe-li-_07/</id>
+        <link href="http://anime-cn.ml/post/wei-shi-me-lao-shi-hui-zai-zhe-li-_07/">
         </link>
-        <updated>2021-02-08T04:49:05.000Z</updated>
+        <updated>2021-02-09T03:58:05.000Z</updated>
         <content type="html"><![CDATA[  <link rel="stylesheet" href="https://g.alicdn.com/de/prismplayer/2.9.0/skins/default/aliplayer-min.css" />
   <script type="text/javascript" charset="utf-8" src="https://g.alicdn.com/de/prismplayer/2.9.0/aliplayer-min.js"></script>
 <div id="player-con"></div>
 <script>
   var player = new Aliplayer({
     id: "player-con",
-    source: "https://onedrive.csbili.ml/anime-cn-1/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%20%E7%AC%AC05%E9%9B%86_%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B_%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%20-%20%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.mp4",
+    source: "https://onedrive.csbili.ml/anime-cn-1/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F%20%E7%AC%AC07%E9%9B%86_%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B_%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F%20-%20%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.mp4",
     width: "100%",
     height: "500px",
     cover: '封面地址',
@@ -281,18 +228,80 @@
 </center>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我喜欢的是妹妹但不是妹妹_04]]></title>
-        <id>http://anime-cn.ml/post/wo-xi-huan-de-shi-mei-mei-dan-bu-shi-mei-mei-_04/</id>
-        <link href="http://anime-cn.ml/post/wo-xi-huan-de-shi-mei-mei-dan-bu-shi-mei-mei-_04/">
+        <title type="html"><![CDATA[为什么老师会在这里？_06]]></title>
+        <id>http://anime-cn.ml/post/wei-shi-me-lao-shi-hui-zai-zhe-li-_06/</id>
+        <link href="http://anime-cn.ml/post/wei-shi-me-lao-shi-hui-zai-zhe-li-_06/">
         </link>
-        <updated>2021-02-08T04:48:16.000Z</updated>
+        <updated>2021-02-09T03:57:30.000Z</updated>
         <content type="html"><![CDATA[  <link rel="stylesheet" href="https://g.alicdn.com/de/prismplayer/2.9.0/skins/default/aliplayer-min.css" />
   <script type="text/javascript" charset="utf-8" src="https://g.alicdn.com/de/prismplayer/2.9.0/aliplayer-min.js"></script>
 <div id="player-con"></div>
 <script>
   var player = new Aliplayer({
     id: "player-con",
-    source: "https://onedrive.csbili.ml/anime-cn-1/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%20%E7%AC%AC04%E9%9B%86_%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B_%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BD%86%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%20-%20%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.mp4",
+    source: "https://onedrive.csbili.ml/anime-cn-1/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F%20%E7%AC%AC06%E9%9B%86_%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B_%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F%20-%20%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.mp4",
+    width: "100%",
+    height: "500px",
+    cover: '封面地址',
+    /* To set an album art, you must set 'autoplay' and 'preload' to 'false' */
+    autoplay: false,
+    preload: false,
+    isLive: false,
+	  <!-- 这个是语言，英语：en-us，简体中文：zh-cn>
+    language: "zh-cn"
+  }, function (player) {
+    console.log("The player is created");
+  });
+</script>
+<br>
+<center>
+<strong>视频来自<a href="http://www.imomoe.ai/">樱花动漫</a>，视频源为<a href="https://crystalbili.xyz">CrystalStudio</a>所有</strong>
+</center>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么老师会在这里？_05]]></title>
+        <id>http://anime-cn.ml/post/wei-shi-me-lao-shi-hui-zai-zhe-li-_05/</id>
+        <link href="http://anime-cn.ml/post/wei-shi-me-lao-shi-hui-zai-zhe-li-_05/">
+        </link>
+        <updated>2021-02-09T03:56:29.000Z</updated>
+        <content type="html"><![CDATA[  <link rel="stylesheet" href="https://g.alicdn.com/de/prismplayer/2.9.0/skins/default/aliplayer-min.css" />
+  <script type="text/javascript" charset="utf-8" src="https://g.alicdn.com/de/prismplayer/2.9.0/aliplayer-min.js"></script>
+<div id="player-con"></div>
+<script>
+  var player = new Aliplayer({
+    id: "player-con",
+    source: "https://onedrive.csbili.ml/anime-cn-1/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F%20%E7%AC%AC05%E9%9B%86_%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B_%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F%20-%20%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.mp4",
+    width: "100%",
+    height: "500px",
+    cover: '封面地址',
+    /* To set an album art, you must set 'autoplay' and 'preload' to 'false' */
+    autoplay: false,
+    preload: false,
+    isLive: false,
+	  <!-- 这个是语言，英语：en-us，简体中文：zh-cn>
+    language: "zh-cn"
+  }, function (player) {
+    console.log("The player is created");
+  });
+</script>
+<br>
+<center>
+<strong>视频来自<a href="http://www.imomoe.ai/">樱花动漫</a>，视频源为<a href="https://crystalbili.xyz">CrystalStudio</a>所有</strong>
+</center>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么老师会在这里？_04]]></title>
+        <id>http://anime-cn.ml/post/wei-shi-me-lao-shi-hui-zai-zhe-li-_04/</id>
+        <link href="http://anime-cn.ml/post/wei-shi-me-lao-shi-hui-zai-zhe-li-_04/">
+        </link>
+        <updated>2021-02-09T03:55:48.000Z</updated>
+        <content type="html"><![CDATA[  <link rel="stylesheet" href="https://g.alicdn.com/de/prismplayer/2.9.0/skins/default/aliplayer-min.css" />
+  <script type="text/javascript" charset="utf-8" src="https://g.alicdn.com/de/prismplayer/2.9.0/aliplayer-min.js"></script>
+<div id="player-con"></div>
+<script>
+  var player = new Aliplayer({
+    id: "player-con",
+    source: "https://onedrive.csbili.ml/anime-cn-1/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F%20%E7%AC%AC04%E9%9B%86_%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B_%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%EF%BC%9F%20-%20%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.mp4",
     width: "100%",
     height: "500px",
     cover: '封面地址',
